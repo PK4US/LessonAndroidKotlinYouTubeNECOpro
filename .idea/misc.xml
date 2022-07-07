@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/LessonAndroidKotlinYouTubeNECOpro/firebasechat/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Eugene/_Programming/AndroidProjects/LessonAndroidKotlinYouTubeNECO/activity_intent/src/main/res/layout/activity_main.xml" value="0.5505208333333333" />
+        <entry key="..\:/Eugene/_Programming/AndroidProjects/LessonAndroidKotlinYouTubeNECO/activity_intent/src/main/res/layout/activity_sign_up_in.xml" value="0.4466666666666667" />
+        <entry key="..\:/Eugene/_Programming/AndroidProjects/LessonAndroidKotlinYouTubeNECO/firebasechat/src/main/res/drawable/icon_google.xml" value="0.534" />
+        <entry key="..\:/Eugene/_Programming/AndroidProjects/LessonAndroidKotlinYouTubeNECO/firebasechat/src/main/res/layout/activity_main.xml" value="0.5045289855072463" />
+        <entry key="..\:/Eugene/_Programming/AndroidProjects/LessonAndroidKotlinYouTubeNECO/firebasechat/src/main/res/layout/activity_sign_in.xml" value="0.5505208333333333" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic__no_avatar.xml" value="0.102" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic_avatar__1_.xml" value="0.1475" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic_avatar__2_.xml" value="0.1475" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic_avatar__3_.xml" value="0.1475" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic_avatar__4_.xml" value="0.1475" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/drawable/ic_launcher_background.xml" value="0.2345" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/activity_intent/src/main/res/layout/activity_sign_up_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/app/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/array_and_list/src/main/res/layout/activity_main.xml" value="0.21203703703703702" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/bottomnavigationview/src/main/res/drawable/bottom_nav_selector.xml" value="0.2055" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/bottomnavigationview/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/bottomnavigationview/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/class/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/header_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/main_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/menu/drawer_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/layout-land/activity_second.xml" value="0.32447916666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/layout/activity_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/menu/main_menu.xml" value="0.21203703703703702" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_and_activity_intent/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2045" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-ru/flag.xml" value="0.1605" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-uk/flag.xml" value="0.1605" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout-land/activity_main.xml" value="0.14479166666666668" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout-land/activity_second.xml" value="0.22330097087378642" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout-land/activity_third.xml" value="0.3260416666666667" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_fullscreen.xml" value="0.24010416666666667" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_navigation.xml" value="0.264" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/fragment_notifications.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/listview/src/main/res/layout/activity_main.xml" value="0.21203703703703702" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/loop/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/materialdesign/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/menu_toolbar/src/main/res/drawable/ic_baseline_sync_24.xml" value="0.2055" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/menu_toolbar/src/main/res/layout/activity_main.xml" value="0.10462962962962963" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/menu_toolbar/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/pifagorapp/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/plantshandbook/src/main/res/layout/activity_edit.xml" value="0.264" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/plantshandbook/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/plantshandbook/src/main/res/layout/plant_item.xml" value="0.264" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/recyclerview/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/recyclerview/src/main/res/layout/plant_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/Android Projects/LessonAndroidKotlinYouTubeNECOpro/test/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/app/src/main/res/layout/activity_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/header_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/layout/main_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/menu/drawer_main_menu.xml" value="0.2" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/kotlinfishermenhandbook/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.189" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-de/flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-pl/flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-ru/flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable-uk/flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable/flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/drawable/ic_flag.xml" value="0.229" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/font/.xml" value="0.29583333333333334" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout-land/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/language_translate_text/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.179" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/lesson_3_activity/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/ProgrammingKotlinAndroid/Android Projects/LessonAndroidKotlinYouTubeNECOpro/listview/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

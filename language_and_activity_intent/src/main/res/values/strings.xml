@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">language_translate_text</string>
+    <string name="tv_1">Hello</string>
+    <string name="tv_2">Write a number</string>
+</resources>

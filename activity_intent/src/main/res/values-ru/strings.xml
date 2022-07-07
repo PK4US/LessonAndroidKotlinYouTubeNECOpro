@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity_intent</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегестрироватся</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+
+</resources>

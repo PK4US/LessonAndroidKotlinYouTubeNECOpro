@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/id_fish"
+            android:id="@+id/id_fish"
+            android:icon="@drawable/ic_fish"/>
+
+        <item android:title="@string/id_na"
+            android:id="@+id/id_na"
+            android:icon="@drawable/ic_na"/>
+
+        <item android:title="@string/id_sna"
+            android:id="@+id/id_sna"
+            android:icon="@drawable/ic_sna"/>
+
+        <item android:title="@string/id_history"
+            android:id="@+id/id_history"
+            android:icon="@drawable/ic_history"/>
+    </group>
+
+    <item android:title="Версия приложения 2.7.7.8">
+        <menu>
+            <item android:title="Настройки"/>
+            <item android:title="Подержка"/>
+        </menu>
+    </item>
+
+</menu>

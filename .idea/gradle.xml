@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_intent" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/array_and_list" />
+            <option value="$PROJECT_DIR$/bottomnavigationview" />
+            <option value="$PROJECT_DIR$/class" />
+            <option value="$PROJECT_DIR$/firebasechat" />
+            <option value="$PROJECT_DIR$/kotlinfishermenhandbook" />
+            <option value="$PROJECT_DIR$/language_and_activity_intent" />
+            <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/loop" />
+            <option value="$PROJECT_DIR$/menu_toolbar" />
+            <option value="$PROJECT_DIR$/pifagorapp" />
+            <option value="$PROJECT_DIR$/plantshandbook" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

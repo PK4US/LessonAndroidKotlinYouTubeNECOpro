@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444658338374",
+    "firebase_url": "https://fir-c0d20-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-c0d20",
+    "storage_bucket": "fir-c0d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444658338374:android:ccd35f4235eda1d4355847",
+        "android_client_info": {
+          "package_name": "com.pk4u.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444658338374-hdn4bs0oudveonfg063m0od5f2tm63ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F_NsDHzG-3GM070QVGL-pvvn31tyfZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444658338374-hdn4bs0oudveonfg063m0od5f2tm63ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

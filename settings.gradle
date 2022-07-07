@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "LessonAndroidKotlinYouTubeNECOpro"
+include ':app'
+include ':listview'
+include ':kotlinfishermenhandbook'
+include ':language_and_activity_intent'
+include ':activity_intent'
+include ':array_and_list'
+include ':loop'
+include ':class'
+include ':pifagorapp'
+include ':plantshandbook'
+include ':recyclerview'
+include ':menu_toolbar'
+include ':bottomnavigationview'
+include ':firebasechat'

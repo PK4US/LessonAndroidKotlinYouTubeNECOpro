@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:title="Поиск"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/sync"
+        android:title="Обновить"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_sync_24"/>
+
+    <item
+        android:id="@+id/aa"
+        android:icon="@drawable/ic_star"
+        android:title="aa"/>
+    <item
+        android:id="@+id/bb"
+        android:title="bb" />
+    <item
+        android:id="@+id/cc"
+        android:title="Изменить цвет">
+        <menu>
+            <item
+                android:id="@+id/dd"
+                android:title="dd"/>
+            <item
+                android:id="@+id/ee"
+                android:title="ee"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/ff"
+            android:title="ff"
+            android:checked="true"/>
+        <item
+            android:id="@+id/gg"
+            android:title="gg"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/hh"
+            android:title="white"
+            android:checked="true"/>
+        <item
+            android:id="@+id/jj"
+            android:title="blue"/>
+    </group>
+
+
+
+</menu>

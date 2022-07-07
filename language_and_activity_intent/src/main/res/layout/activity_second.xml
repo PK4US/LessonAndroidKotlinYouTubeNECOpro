@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/fullscreenBackgroundColor"
+    android:theme="@style/ThemeOverlay.LessonAndroidKotlinYouTubeNECOpro.FullscreenContainer"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:text="2"
+        android:textColor="?attr/fullscreenTextColor"
+        android:textSize="400sp"
+        android:textStyle="bold" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="@style/Widget.Theme.LessonAndroidKotlinYouTubeNECOpro.ButtonBar.Fullscreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <Button
+                android:id="@+id/buttonBackToFirstActivity"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:onClick="onClickBackToFirstActivity"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Назад" />
+            <Button
+                android:id="@+id/buttonToThirdActivity"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:textColor="@color/white"
+                android:onClick="onClickToThirdActivity"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Вперед" />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/etSecondActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/white"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="@string/tv_2"
+            android:inputType="number" />
+    </FrameLayout>
+
+</FrameLayout>
