@@ -44,7 +44,6 @@ class SignInAct : AppCompatActivity() {
         }
     }
 
-
     private fun getClient(): GoogleSignInClient {
         val gso = GoogleSignInOptions
             .Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
