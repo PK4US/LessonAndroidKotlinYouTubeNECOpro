@@ -37,6 +37,8 @@ class MainActivity : AppCompatActivity() , PlantAdapter.Listener{
     }
 
     override fun onClick(plant: Plant) {
-    Toast.makeText(this,"Нажали на ${plant.title}",Toast.LENGTH_SHORT).show()
+    startActivity(Intent(this,ContentActivity::class.java).apply {
+        putExtra(ITEM,plant)
+    })
     }
 }

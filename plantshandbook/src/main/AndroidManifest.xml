@@ -8,10 +8,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LessonAndroidKotlinYouTubeNECOpro">
+        android:theme="@style/Theme.NECO">
+        <activity
+            android:name=".ContentActivity"
+            android:exported="false" />
+
+
         <activity
             android:name=".EditActivity"
             android:exported="false" />
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
