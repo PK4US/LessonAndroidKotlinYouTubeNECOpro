@@ -3,15 +3,16 @@ package com.pk4u.plantshandbook
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.widget.Toast
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.pk4u.plantshandbook.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() , PlantAdapter.Listener{
     private lateinit var binding:ActivityMainBinding
-    private val adapter = PlantAdapter()
+    private val adapter = PlantAdapter(this)
     private var editLauncher:ActivityResultLauncher<Intent>? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -33,5 +34,9 @@ class MainActivity : AppCompatActivity() {
         buttonAdd.setOnClickListener(){
             editLauncher?.launch(Intent(this@MainActivity,EditActivity::class.java))
         }
+    }
+
+    override fun onClick(plant: Plant) {
+    Toast.makeText(this,"Нажали на ${plant.title}",Toast.LENGTH_SHORT).show()
     }
 }
