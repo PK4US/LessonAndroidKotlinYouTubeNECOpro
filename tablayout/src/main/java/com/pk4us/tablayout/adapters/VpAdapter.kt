@@ -1,4 +1,4 @@
-package com.pk4us.tablayout
+package com.pk4us.tablayout.adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity

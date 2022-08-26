@@ -4,16 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment2">
+    tools:context=".fragments.ContentFragment">
 
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Fragment2"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginHorizontal="10dp"
+        android:text="Ромашка"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
