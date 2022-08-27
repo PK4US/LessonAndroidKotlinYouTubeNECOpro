@@ -11,7 +11,7 @@
         android:id="@+id/tvCaseUse"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="case use"
+        android:text="use case"
         android:textColor="@color/black"
         android:padding="10dp" />
 
